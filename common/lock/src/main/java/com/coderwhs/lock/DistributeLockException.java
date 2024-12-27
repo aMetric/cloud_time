@@ -1,4 +1,4 @@
-package cn.hollis.nft.turbo.lock;
+package com.coderwhs.lock;
 
 /**
  * 分布式锁异常

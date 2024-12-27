@@ -1,4 +1,4 @@
-package com.coderwhs;
+package com.coderwhs.config;
 
 import org.springframework.context.annotation.Configuration;
 
@@ -8,6 +8,5 @@ import org.springframework.context.annotation.Configuration;
  * @description:
  */
 @Configuration
-@Enable
 public class CacheConfiguration {
 }

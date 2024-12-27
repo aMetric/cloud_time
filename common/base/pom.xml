@@ -10,6 +10,7 @@
     </parent>
 
     <artifactId>base</artifactId>
+    <description>基础组件</description>
 
     <properties>
         <maven.compiler.source>21</maven.compiler.source>

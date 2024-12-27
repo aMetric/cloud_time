@@ -1,6 +1,6 @@
-package cn.hollis.nft.turbo.lock.config;
+package com.coderwhs.lock.config;
 
-import cn.hollis.nft.turbo.lock.DistributeLockAspect;
+import com.coderwhs.lock.DistributeLockAspect;
 import org.redisson.api.RedissonClient;
 import org.springframework.boot.autoconfigure.condition.ConditionalOnMissingBean;
 import org.springframework.context.annotation.Bean;
